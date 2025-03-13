@@ -1,0 +1,122 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.App",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.BoletimEstudantil",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.Operadores",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Operadores2",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.Operadores2",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Operadores3",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.Operadores3",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Operadores4",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.Operadores4",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Operadores5",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.Operadores5",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Operadores6",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.Operadores6",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Operadores7",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.Operadores7",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Operadores8",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.Operadores8",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.jvictor.primeirasemana.TiposVariaveis",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.jvictor.segundasemana.AboutMe",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0",
+            
+        
+        },
+        {
+            "type": "java",
+            "name": "ClassName",
+            "request": "launch",
+            "mainClass": "edu.jvictor.segundasemana.ClassName",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.jvictor.segundasemana.MinhaClasse",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.jvictor.smart_tv.Usuario",
+            "projectName": "meu-primeiro-projeto-java_6899bdb0"
+        }
+    ]
+}
